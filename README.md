@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-I love :dance:, :coffee: and :basketball:.
+I love :dancer:, :coffee: and :basketball:.
